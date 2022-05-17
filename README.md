@@ -2,6 +2,7 @@
 - 👀 I’m interested in ...Software Engineering
 - 🌱 I’m currently learning ...Core java
 - 💞️ I’m looking to collaborate on ...Projects and Full time Opportunities
+- Currently I am working as a Software Development Engineer at Cognizant.
 - 📫 How to reach me ... Email- Salmanrizvi570@gmail.com Phone-9325469247
 
 <!---
